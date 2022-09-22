@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube--red)](https://www.youtube.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Shweta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/shweta-sharma-815805244/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Shweta-green)](https://www.)
+[![Website Badge](https://img.shields.io/badge/WebSite-Shweta-green)](https://shweta1704sh.github.io/shwetaprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shweta-yellow)](https://stackoverflow.com/users/19634540/shweta-sharma)
 
 I'm
